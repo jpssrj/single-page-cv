@@ -16,7 +16,7 @@ How to Use
 
 Clone the repository:
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/jpssrj/single-page-cv
 
 
 Open the index.html file in your browser.
@@ -40,4 +40,6 @@ License
 
 This project is licensed under the MIT License.
 
+
+ROADMAP.SH
 https://roadmap.sh/projects/single-page-cv
